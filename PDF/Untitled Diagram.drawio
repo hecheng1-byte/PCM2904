@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T12:07:54.040Z" agent="5.0 (Windows)" etag="MWH2rsLv4pVIP1nXzdcu" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T15:46:21.487Z" agent="5.0 (Windows)" etag="wFW_L7ozksIfSF5D--6x" version="14.9.7" type="github">
   <diagram id="yB_mHN6GY6BzG0z-iYq4" name="Page-1">
     <mxGraphModel dx="593" dy="306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rMIFAQmevB3NfBjgwPL5-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;五向开关&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rMIFAQmevB3NfBjgwPL5-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;波段开关&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="581" y="206.5" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
