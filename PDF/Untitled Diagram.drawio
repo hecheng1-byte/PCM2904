@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T03:05:56.928Z" agent="5.0 (Windows)" version="14.9.7" etag="eSbTAuoQvKHKqcp8BGLb" type="github"><diagram id="cP4s6JYN2gyGzT5aOoAY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-19T04:50:21.458Z" agent="5.0 (Windows)" etag="7f40jSZTwEY31ItMZq7y" version="14.9.7" type="github">
+  <diagram id="cP4s6JYN2gyGzT5aOoAY" name="Page-1">
+    <mxGraphModel dx="593" dy="306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f0EjhEX-MkuPZd1vcuLO-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;STM32主控&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0EjhEX-MkuPZd1vcuLO-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;LDO稳压&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0EjhEX-MkuPZd1vcuLO-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;R-2R DAC&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0EjhEX-MkuPZd1vcuLO-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;待测阻抗&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="340" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0EjhEX-MkuPZd1vcuLO-5" value="&lt;div style=&quot;font-size: 17px&quot; align=&quot;center&quot;&gt;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;激&lt;/font&gt;&lt;/b&gt;&lt;/sup&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot; align=&quot;center&quot;&gt;&lt;sup&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;励&lt;/font&gt;&lt;/b&gt;&lt;/sup&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+          <mxGeometry x="545" y="250" width="70" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
